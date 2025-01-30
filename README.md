@@ -10,6 +10,9 @@ Bike Zone is a responsive website designed to showcase a collection of bikes, pr
 ----------------
 ![Website View](https://github.com/ajjiadd/Bike-Zone-website-DaisyUI/raw/main/images/icons/image.png?raw=true)
 
+* Live View : https://ajjiadd.github.io/Bike-Zone-website-DaisyUI/
+
+
 **Features**
 ----------------
 
